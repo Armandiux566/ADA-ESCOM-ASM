@@ -2,8 +2,8 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define TAMANIO_1 1875
-#define TAMANIO_2 2334
+#define TAMANIO_1 1000
+#define TAMANIO_2 867
 
 void insertion_sort(int *A, int n)       //O(n cuadrada)
 {
